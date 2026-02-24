@@ -89,4 +89,3 @@ The agent will:
 - Job tracking interface
 - Application status manager
 
----
