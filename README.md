@@ -68,7 +68,7 @@ The system is built using stateful orchestration with LangGraph.
 - Live fresher job link discovery for strong profiles
 - Course recommendations
 
----
+--
 
 ## 🚧 Upcoming Enhancements
 
